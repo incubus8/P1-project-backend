@@ -40,5 +40,36 @@
       "address": "113 MacDougal St, NYC",
       "known for": "côte de beouf"
     }
+  ],
+  "Reviews": [
+    {
+      "id": 1,
+      "resid": 1,
+      "comments": "comments go here",
+      "rating": 4
+    },
+    {"id": 1,
+      "resid": 1,
+      "comments": "comments go here",
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "resid": 1,
+      "comments": "comments go here",
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "resid": 1,
+      "comments": "comments go here",
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "resid": 1,
+      "comments": "comments go here",
+      "rating": 4
+    }
   ]
 }
