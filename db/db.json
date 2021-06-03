@@ -38,37 +38,38 @@
       "image": "http://www.johnnyprimesteaks.com/wp-content/uploads/2015/04/DSC06118.jpg",
       "rating": 4,
       "address": "113 MacDougal St, NYC",
-      "known for": "côte de beouf"
+      "known for": "cote de beouf"
     }
   ],
   "Reviews": [
     {
       "id": 1,
       "resid": 1,
-      "comments": "comments go here",
-      "rating": 4
-    },
-    {"id": 1,
-      "resid": 1,
-      "comments": "comments go here",
+      "comments": ["One of my favorite steakhouses in NYC.", "I'll definitely be going back again.", "I would recommend the steak over peter luger."],
       "rating": 4
     },
     {
-      "id": 1,
-      "resid": 1,
-      "comments": "comments go here",
+      "id": 2,
+      "resid": 2,
+      "comments": ["When you want a special meal/steak, this should be in the top three choices.", "Get the world famous, mouth watering mutton chop. You'll thank me later", "Don't come too often, but when I do I get the mutton chop and sautéed mushrooms. Out of this world! "]
       "rating": 4
     },
     {
-      "id": 1,
-      "resid": 1,
-      "comments": "comments go here",
+      "id": 3,
+      "resid": 3,
+      "comments": ["It's Peter Luger. Do I need to say anything more?", "The best steaks i've ever had!", "Food was okay, overpriced for the ok quality."]
       "rating": 4
     },
     {
-      "id": 1,
-      "resid": 1,
-      "comments": "comments go here",
+      "id": 4,
+      "resid": 4,
+      "comments": ["If I could I would eat Prime Rib every single day, I really liked it.", "Don't have much to say here, but for prime rib, this gets my label as the best prime rib I have ever had, and I have had my share of prime ribs.", "The prime rib is amazing. Mind you I'm a somewhat prime rib snob..."]
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "resid": 5,
+      "comments": ["Been here 10x - I've been meaning to try the burger. Will have to wait until next time the Cote de Bouf every damed time.","If you're here with a date, then the Cote de Boeuf can't be beat.","Go. Get the Black Label Burger. Get the Cote de Boeuf. You won't be disappointed." ]
       "rating": 4
     }
   ]
